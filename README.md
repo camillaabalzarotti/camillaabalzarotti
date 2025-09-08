@@ -42,7 +42,7 @@ This GitHub profile serves as a **personal portfolio of my projects**, documenti
 ### Useful links
 📄 **CV**: [Curriculum Vitae]()
 
-🔗 **LinkedIn**: [My profile!](www.linkedin.com/in/camilla-balzarotti-3541a1253)
+🔗 **LinkedIn**: www.linkedin.com/in/camilla-balzarotti-3541a1253
 
 📩 **E-mail**: camilla.balzarotti02@gmail.com
 
