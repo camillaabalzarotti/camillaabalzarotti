@@ -20,7 +20,7 @@ This GitHub profile serves as a **personal portfolio of my projects**, documenti
 
 ### Projects Overview
 #### 2025
-* [Histopathological Classification of Submolecular Types]()
+* [Histopathological Classification of Submolecular Types](https://github.com/camillaabalzarotti/pathology-attention-aggregation.git)
 * [Deep Learning for Medical Images Analysis: Retinal Vessel Segmentation](https://github.com/camillaabalzarotti/DLMA_project.git)
 * [Natural Language Processing: Visual Question Answering for Medical Images](https://github.com/camillaabalzarotti/NLP_project.git)
 * [AI and Image-guided Robotics: projects and research proposal](https://github.com/camillaabalzarotti/AI_and_Image_guided_robotics.git)
