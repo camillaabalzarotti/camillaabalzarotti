@@ -40,7 +40,7 @@ This GitHub profile serves as a **personal portfolio of my projects**, documenti
 
 
 ### Useful links
-📄 **CV**: [Curriculum Vitae](./docs/curriculum_vitae.pdf)
+📄 **CV**: [Curriculum Vitae](https://drive.google.com/drive/folders/1zTh7PemHqzTKHXrIVIbal6cdR_5qKsDE?usp=sharing)
 
 🔗 **LinkedIn**: www.linkedin.com/in/camilla-balzarotti-3541a1253
 
